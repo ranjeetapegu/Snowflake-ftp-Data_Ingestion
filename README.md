@@ -7,20 +7,19 @@ Ananconda installed in your machine.
 FTP Server:Access to an FTP server hosting the files, Make sure your credentials are ready for a smooth connection (if required). For this project I am using
 
 ## Requirement
-This Project requires python 3.9 to run.Create a virtual environment. 
-
- snowflake-snowpark-python
+This Project requires python 3.9 to run.Create a virtual environment.   
+snowflake-snowpark-python
 
 
 ## using virtualenv
 
 
-Create virtualenv with python 3 as default
+Create virtualenv with python 3 as default   
 ```conda create --name snfenv python=3.9 numpy pandas pyarrow```
 
-Activate virtualenv
+Activate virtualenv   
 ```conda activate snfenv```
 
-Install requirements
+Install requirements   
 ```pip install snowflake-snowpark-python```
 
