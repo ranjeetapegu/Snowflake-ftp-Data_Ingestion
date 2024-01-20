@@ -22,5 +22,5 @@ Activate virtualenv
 ```conda activate snfenv```
 
 Install requirements
-```pip install -r requirements.txt```
+```pip install snowflake-snowpark-python```
 
